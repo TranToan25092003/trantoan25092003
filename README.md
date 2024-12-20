@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi there 👋,
+🌱 I’m currently learning Linux training course
+😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄😄
 <!--
 **TranToan25092003/trantoan25092003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
